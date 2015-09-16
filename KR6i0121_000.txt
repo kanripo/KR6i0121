@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿難問事佛吉凶經
+#+DATE: 2015-08-30 20:10:24.812884
+#+PROPERTY: JUAN 0
